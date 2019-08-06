@@ -1,2 +1,2 @@
 # textsummary_thesis
-文本摘要综述
+文本摘要相关论文
